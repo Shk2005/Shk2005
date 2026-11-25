@@ -20,11 +20,32 @@ I build AI agent workflows, code-rendered video tools, and AI search systems fro
 
 ## Featured work
 
-| Repository | What it does | Stack |
-|---|---|---|
-| [motion-preflight-qa](https://github.com/Shk2005/motion-preflight-qa) | Runs an 8-gate FFmpeg check, builds 6-frame Reels, TikTok, and Shorts safe-zone contact sheets, and masters audio to `-14.0 LUFS` so code-rendered videos stop playing as black screens on iPhones. | Python, FFmpeg |
-| [motion-graphics](https://github.com/Shk2005/motion-graphics) | Shareable agent skills (`motion-graphics` and `saas-animation`) for coding kinetic text ads, product explainers, and 4K SaaS animations with HyperFrames and Blender. | Python, JavaScript, HTML |
-| [srinath-portfolio](https://github.com/Shk2005/srinath-portfolio) | Interactive 218-frame scroll portfolio covering AI-native brand films (`1.07M+` organic views on short-form series, `450K+` on brand film) and agentic marketing pipelines. | TypeScript, HTML |
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="24%">Repository</th>
+      <th align="left" width="58%">What it does</th>
+      <th align="left" width="18%">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Shk2005/motion-preflight-qa"><strong>motion-preflight-qa</strong></a></td>
+      <td>Runs an 8-gate FFmpeg check, builds 6-frame Reels, TikTok, and Shorts safe-zone contact sheets, and masters audio to <code>-14.0 LUFS</code> so code-rendered videos stop playing as black screens on iPhones.</td>
+      <td>Python, FFmpeg</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Shk2005/motion-graphics"><strong>motion-graphics</strong></a></td>
+      <td>Shareable agent skills (<code>motion-graphics</code> and <code>saas-animation</code>) for coding kinetic text ads, product explainers, and 4K SaaS animations with HyperFrames and Blender.</td>
+      <td>Python, JS, HTML</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Shk2005/srinath-portfolio"><strong>srinath-portfolio</strong></a></td>
+      <td>Interactive 218-frame scroll portfolio covering AI-native brand films (<code>1.07M+</code> organic views on short-form series, <code>450K+</code> on brand film) and agentic marketing pipelines.</td>
+      <td>TypeScript, HTML</td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
 <tr>
