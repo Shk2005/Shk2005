@@ -7,9 +7,13 @@
 </p>
 
 <p align="center">
+  <a href="https://shk2005.github.io/">Links</a>
+  &nbsp;&middot;&nbsp;
   <a href="https://shk2005.github.io/srinath-portfolio/">Portfolio</a>
   &nbsp;&middot;&nbsp;
   <a href="https://www.linkedin.com/in/srinath-nanda-kumar-3045a228a/">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.instagram.com/srinathnkk/">Instagram</a>
   &nbsp;&middot;&nbsp;
   <a href="https://www.agensi.io/creators/srinath-nanda-kumar">Agensi skills</a>
   &nbsp;&middot;&nbsp;
