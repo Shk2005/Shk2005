@@ -67,6 +67,7 @@ I build AI agent workflows, code-rendered video tools, and AI search systems fro
 ### Recently updated
 
 <!-- recent-activity:start -->
+- [Shk2005.github.io](https://github.com/Shk2005/Shk2005.github.io) (2026-11-26): Launch editorial link hub with dual theme and Cmd+K
 - [srinath-portfolio](https://github.com/Shk2005/srinath-portfolio) (2026-11-25): Add v2.0 studio cover and portfolio README
 - [motion-preflight-qa](https://github.com/Shk2005/motion-preflight-qa) (2026-11-25): Update v2.0 studio cover and refine README
 <!-- recent-activity:end -->
