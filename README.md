@@ -39,6 +39,11 @@ I build AI agent workflows, code-rendered video tools, and AI search systems fro
       <td>Python, FFmpeg</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Shk2005/code-motion-studio"><strong>code-motion-studio</strong></a></td>
+      <td>Deterministic 60fps HTML-to-MP4 agent skill: storyboard approval sheets, pure <code>window.renderAt(t)</code> scenes with browser scrubbing, 2-second safe-zone contact sheets, and multi-worker broadcast rendering.</td>
+      <td>Node.js, Python, FFmpeg</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Shk2005/srinath-portfolio"><strong>srinath-portfolio</strong></a></td>
       <td>Interactive 218-frame scroll portfolio covering AI-native brand films (<code>1.07M+</code> organic views on short-form series, <code>450K+</code> on brand film) and agentic marketing pipelines.</td>
       <td>TypeScript, HTML</td>
